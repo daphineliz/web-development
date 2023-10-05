@@ -1,0 +1,48 @@
+body{
+    font-family: sans-serif;
+    background-color: white;
+}
+
+h4{
+    text-align: center;
+}
+
+p{
+    text-align: center;
+}
+
+ul{
+    list-style-type: none;
+    align-content: center;
+    text-align: center;
+}
+
+ul li{
+    align-content: center;
+    text-align: center;
+}
+
+img{
+    align-items: center;
+    align-content: center;
+}
+
+table{
+    width: 100%;
+    border-collapse:  collapse;
+}
+
+table th, table tr{
+    border: 1px solid black;
+    padding: 0.5em;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+a:hover{
+    color: blueviolet;
+}
+
